@@ -1,0 +1,9 @@
+{
+	"name": "dtf-aula-teste01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c74caa12-711c-4a5e-bbe0-cd9e99152cd6",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
